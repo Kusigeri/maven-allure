@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://Kusigeri.github.io/maven-allure",
+  "buildOrder" : 1,
+  "buildName" : "GitHub Actions Run #1076005005",
+  "buildUrl" : "https://github.com/Kusigeri/maven-allure/actions/runs/1076005005",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://Kusigeri.github.io/maven-allure/1/"
+} ]
