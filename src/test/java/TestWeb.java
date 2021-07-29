@@ -32,6 +32,12 @@ public class TestWeb {
         assertEquals("https://codecool.com/hu/", url);
     }
 
+    @Test
+    public void WebTest3() {
+        String url = driver.getCurrentUrl();
+        assertEquals("https://codecool.com/", url);
+    }
+
     @AfterEach
     public void stopProcess() { driver.quit(); }
 }
